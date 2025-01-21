@@ -1,0 +1,17 @@
+captum==0.7.0
+dlib==19.24.6
+imutils==0.5.4
+matplotlib==3.10.0
+mediapipe==0.10.18
+numpy==2.2.2
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+pandas==2.2.3
+Pillow==11.1.0
+scikit_learn==1.6.1
+scipy==1.15.1
+seaborn==0.13.2
+skimage==0.0
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.67.1
